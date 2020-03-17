@@ -54,7 +54,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NET.S.2020.Anischenko.03\GreatestCommonDivisor.csproj">
+    <ProjectReference Include="..\GreatestCommonDivisor\GreatestCommonDivisor.csproj">
       <Project>{eb54393d-e9a0-4d98-abd6-5775624917fd}</Project>
       <Name>GreatestCommonDivisor</Name>
     </ProjectReference>
