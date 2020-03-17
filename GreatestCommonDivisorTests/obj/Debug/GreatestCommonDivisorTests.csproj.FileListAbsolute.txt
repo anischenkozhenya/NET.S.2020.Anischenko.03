@@ -1,0 +1,11 @@
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\GreatestCommonDivisorTests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\GreatestCommonDivisorTests.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\NET.S.2020.Anischenko.03.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\nunit.framework.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\NET.S.2020.Anischenko.03.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\nunit.framework.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\bin\Debug\nunit.framework.xml
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\obj\Debug\GreatestCommonDivisorTests.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\obj\Debug\GreatestCommonDivisorTests.csproj.CopyComplete
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\obj\Debug\GreatestCommonDivisorTests.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisorTests\obj\Debug\GreatestCommonDivisorTests.pdb
