@@ -1,5 +1,5 @@
-C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\bin\Debug\NET.S.2020.Anischenko.03.dll
-C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\bin\Debug\NET.S.2020.Anischenko.03.pdb
 C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache
-C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\obj\Debug\NET.S.2020.Anischenko.03.dll
-C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\obj\Debug\NET.S.2020.Anischenko.03.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\bin\Debug\GCD.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\bin\Debug\GCD.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\obj\Debug\GCD.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\obj\Debug\GCD.pdb

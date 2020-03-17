@@ -7,8 +7,8 @@
     <ProjectGuid>{EB54393D-E9A0-4D98-ABD6-5775624917FD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NET.S._2020.Anischenko._03</RootNamespace>
-    <AssemblyName>NET.S.2020.Anischenko.03</AssemblyName>
+    <RootNamespace>GCD</RootNamespace>
+    <AssemblyName>GCD</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

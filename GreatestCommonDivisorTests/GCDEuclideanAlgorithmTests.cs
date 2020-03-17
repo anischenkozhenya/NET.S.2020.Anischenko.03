@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-using NET.S._2020.Anischenko._03;
+using GCD;
 
 namespace GreatestCommonDivisorTests
 {

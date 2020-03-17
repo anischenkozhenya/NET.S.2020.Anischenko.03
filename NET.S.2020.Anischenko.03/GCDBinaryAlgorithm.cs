@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NET.S._2020.Anischenko._03
+namespace GCD
 {
     class GCDBinaryAlgorithm
     {

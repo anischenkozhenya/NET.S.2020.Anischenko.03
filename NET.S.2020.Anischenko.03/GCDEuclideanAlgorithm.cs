@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Runtime.InteropServices;
 
-namespace NET.S._2020.Anischenko._03
+namespace GCD
 {
     /// <summary>
     ///A class for finding the greatest common divisor
