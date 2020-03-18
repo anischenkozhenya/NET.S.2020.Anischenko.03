@@ -7,7 +7,7 @@ namespace GCD
     /// <summary>
     ///A class for finding the greatest common divisor
     /// </summary>
-    public static class GreatestCommonDivisor
+    public static partial class GreatestCommonDivisor
     {
         /// <summary>
         /// Returns the greatest common divisor using the Euclidean Algorithm from Nth numbers
