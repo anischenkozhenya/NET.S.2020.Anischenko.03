@@ -1,5 +1,4 @@
-﻿using System;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using MyConverter;
 
 namespace MyConverterTests
@@ -18,6 +17,6 @@ namespace MyConverterTests
         [TestCase(double.PositiveInfinity, ExpectedResult = "0111111111110000000000000000000000000000000000000000000000000000")]
         [TestCase(-0.0, ExpectedResult = "1000000000000000000000000000000000000000000000000000000000000000")]
         [TestCase(0.0, ExpectedResult = "0000000000000000000000000000000000000000000000000000000000000000")]
-        public string DoubleToBitFormatTest(double numder) => Converter.DoubleToBitFormat(numder);
+        public string DoubleToBitFormatTest(double number) => Converter.DoubleToBitFormat(number);
     }
 }

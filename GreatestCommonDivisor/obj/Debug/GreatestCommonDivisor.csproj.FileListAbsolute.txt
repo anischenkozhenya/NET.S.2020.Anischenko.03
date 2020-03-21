@@ -13,3 +13,8 @@ C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.03-master\GreatestCommonDiviso
 C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.03-master\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache
 C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.03-master\GreatestCommonDivisor\obj\Debug\GCD.dll
 C:\Users\Anischenko\Desktop\NET.S.2020.Anischenko.03-master\GreatestCommonDivisor\obj\Debug\GCD.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03-master\NET.S.2020.Anischenko.03-master\.vs\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisor\bin\Debug\GCD.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03-master\NET.S.2020.Anischenko.03-master\.vs\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisor\bin\Debug\GCD.pdb
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03-master\NET.S.2020.Anischenko.03-master\.vs\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03-master\NET.S.2020.Anischenko.03-master\.vs\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisor\obj\Debug\GCD.dll
+C:\Users\Madara\Desktop\NET.S.2020.Anischenko.03-master\NET.S.2020.Anischenko.03-master\.vs\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\NET.S.2020.Anischenko.03\GreatestCommonDivisor\obj\Debug\GCD.pdb
